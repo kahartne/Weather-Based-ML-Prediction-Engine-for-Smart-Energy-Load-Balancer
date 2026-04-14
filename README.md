@@ -15,3 +15,4 @@ See .ipynb file for original notebook formatting for generation of .pkl files. A
 kWh_Prediction_Generator/main.py is used to pull a .pkl model and output a kWh_baseline.csv file with the prediction results, given a weather.csv with weather data.
 
 Note: fix_notebook.py only present for debugging purposes
+See https://github.com/argomez2/CSC316_322_Project for utilization in Smart Energy Load Balancer
